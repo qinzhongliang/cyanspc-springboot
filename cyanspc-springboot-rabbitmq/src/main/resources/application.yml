@@ -1,0 +1,10 @@
+spring:
+  rabbitmq:
+    host: 106.13.125.89
+    port: 5672
+    virtual-host: cyan
+    username: guest
+    password: guest
+    connection-timeout: 10000
+    template:
+      mandatory: true

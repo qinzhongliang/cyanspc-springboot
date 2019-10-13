@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/cyanspc-springboot-jsp" />
+    <file type="web" url="file://$PROJECT_DIR$/cyanspc-springboot-war" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-qks/pom.xml" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-multi-profiles/pom.xml" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-war/pom.xml" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-properties-mapping/pom.xml" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-servletcomponent/pom.xml" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-error/pom.xml" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-webjars/pom.xml" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-swagger2/pom.xml" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-redis-autoconfig/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>General</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Duplicates</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

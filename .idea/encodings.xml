@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cyanspc-springboot-error" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cyanspc-springboot-jdbc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cyanspc-springboot-jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cyanspc-springboot-maven" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cyanspc-springboot-multi-profiles" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cyanspc-springboot-mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cyanspc-springboot-properties-mapping" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cyanspc-springboot-qks" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cyanspc-springboot-quartz" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cyanspc-springboot-rabbitmq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cyanspc-springboot-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cyanspc-springboot-redis-autoconfig" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cyanspc-springboot-servletcomponent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cyanspc-springboot-swagger2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cyanspc-springboot-war" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cyanspc-springboot-webjars" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

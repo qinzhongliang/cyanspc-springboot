@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cyanspc-springboot-error" />
+        <module name="cyanspc-springboot-jdbc" />
+        <module name="cyanspc-springboot-jsp" />
+        <module name="cyanspc-springboot-maven" />
+        <module name="cyanspc-springboot-multi-profiles" />
+        <module name="cyanspc-springboot-mybatis" />
+        <module name="cyanspc-springboot-properties-mapping" />
+        <module name="cyanspc-springboot-qks" />
+        <module name="cyanspc-springboot-quartz" />
+        <module name="cyanspc-springboot-rabbitmq" />
+        <module name="cyanspc-springboot-redis" />
+        <module name="cyanspc-springboot-redis-autoconfig" />
+        <module name="cyanspc-springboot-servletcomponent" />
+        <module name="cyanspc-springboot-swagger2" />
+        <module name="cyanspc-springboot-war" />
+        <module name="cyanspc-springboot-webjars" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cyanspc-springboot" target="1.8" />
+      <module name="cyanspc-springboot-error" target="1.8" />
+      <module name="cyanspc-springboot-jdbc" target="1.8" />
+      <module name="cyanspc-springboot-jsp" target="1.8" />
+      <module name="cyanspc-springboot-maven" target="1.8" />
+      <module name="cyanspc-springboot-multi-profiles" target="1.8" />
+      <module name="cyanspc-springboot-mybatis" target="1.8" />
+      <module name="cyanspc-springboot-properties-mapping" target="1.8" />
+      <module name="cyanspc-springboot-qks" target="1.8" />
+      <module name="cyanspc-springboot-quartz" target="1.8" />
+      <module name="cyanspc-springboot-rabbitmq" target="1.8" />
+      <module name="cyanspc-springboot-redis" target="1.8" />
+      <module name="cyanspc-springboot-redis-autoconfig" target="1.8" />
+      <module name="cyanspc-springboot-servletcomponent" target="1.8" />
+      <module name="cyanspc-springboot-swagger2" target="1.8" />
+      <module name="cyanspc-springboot-war" target="1.8" />
+      <module name="cyanspc-springboot-webjars" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cyanspc-springboot" options="-parameters" />
+      <module name="cyanspc-springboot-error" options="-parameters" />
+      <module name="cyanspc-springboot-jdbc" options="-parameters" />
+      <module name="cyanspc-springboot-jsp" options="-parameters" />
+      <module name="cyanspc-springboot-maven" options="-parameters" />
+      <module name="cyanspc-springboot-multi-profiles" options="-parameters" />
+      <module name="cyanspc-springboot-mybatis" options="-parameters" />
+      <module name="cyanspc-springboot-properties-mapping" options="-parameters" />
+      <module name="cyanspc-springboot-qks" options="-parameters" />
+      <module name="cyanspc-springboot-quartz" options="-parameters" />
+      <module name="cyanspc-springboot-rabbitmq" options="-parameters" />
+      <module name="cyanspc-springboot-redis" options="-parameters" />
+      <module name="cyanspc-springboot-redis-autoconfig" options="-parameters" />
+      <module name="cyanspc-springboot-servletcomponent" options="-parameters" />
+      <module name="cyanspc-springboot-swagger2" options="-parameters" />
+      <module name="cyanspc-springboot-war" options="-parameters" />
+      <module name="cyanspc-springboot-webjars" options="-parameters" />
+    </option>
+  </component>
+</project>

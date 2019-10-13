@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cyanspc-springboot-jsp:war">
+    <output-path>$PROJECT_DIR$/cyanspc-springboot-jsp/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>cyanspc-springboot-jsp</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="cyanspc-springboot-jsp-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="cyanspc-springboot-jsp:war exploded" />
+    </root>
+  </artifact>
+</component>

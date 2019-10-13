@@ -1,0 +1,6 @@
+#spring:
+#  profiles: test
+#server:
+#  port: 7777
+#  servlet:
+#    context-path: /bootMultiProfiles4test

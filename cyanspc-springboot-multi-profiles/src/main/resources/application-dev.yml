@@ -1,0 +1,6 @@
+#spring:
+#  profiles: dev
+#server:
+#  port: 8888
+#  servlet:
+#    context-path: /bootMultiProfiles4dev

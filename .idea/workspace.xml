@@ -1,0 +1,1161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="cyanspc-springboot-jsp:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe6a7807-45a7-4996-8dad-16a560b01c05" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/cyanspc-springboot-maven/target/" />
+    <ignored path="$PROJECT_DIR$/cyanspc-springboot-qks/target/" />
+    <ignored path="$PROJECT_DIR$/cyanspc-springboot-multi-profiles/target/" />
+    <ignored path="$PROJECT_DIR$/cyanspc-springboot-war/target/" />
+    <ignored path="$PROJECT_DIR$/cyanspc-springboot-jsp/target/" />
+    <ignored path="$PROJECT_DIR$/cyanspc-springboot-properties-mapping/target/" />
+    <ignored path="$PROJECT_DIR$/cyanspc-springboot-servletcomponent/target/" />
+    <ignored path="$PROJECT_DIR$/cyanspc-springboot-error/target/" />
+    <ignored path="$PROJECT_DIR$/cyanspc-springboot-webjars/target/" />
+    <ignored path="$PROJECT_DIR$/cyanspc-springboot-jdbc/target/" />
+    <ignored path="$PROJECT_DIR$/cyanspc-springboot-mybatis/target/" />
+    <ignored path="$PROJECT_DIR$/cyanspc-springboot-rabbitmq/target/" />
+    <ignored path="$PROJECT_DIR$/cyanspc-springboot-swagger2/target/" />
+    <ignored path="$PROJECT_DIR$/cyanspc-springboot-redis/target/" />
+    <ignored path="$PROJECT_DIR$/cyanspc-springboot-redis-autoconfig/target/" />
+    <ignored path="$PROJECT_DIR$/cyanspc-springboot-quartz/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/controller/RedPacketController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="57" column="37" selection-start-line="57" selection-start-column="37" selection-end-line="57" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cyanspc-springboot-mybatis/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/controller/RedisController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>AngleLogger</find>
+      <find>CyanException</find>
+      <find>virtual-host</find>
+      <find>virtualHost</find>
+      <find>amqp</find>
+      <find>amqpA</find>
+      <find>ConfigurationProperties</find>
+      <find>/data/java</find>
+      <find>LockNxExJob</find>
+      <find>UNLOCK_LUA</find>
+      <find>AddLimitOffsetPlugin</find>
+      <find>mapperScanPackage</find>
+      <find>update</find>
+      <find>RedPacketInfoSqlProvider</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cyanspc-springboot-rabbitmq/src/main/java/com/cyan/producter/CyanProductor.java" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-rabbitmq/src/main/java/com/cyan/config/RabbitMqConfig.java" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-swagger2/pom.xml" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-swagger2/src/main/java/com/cyan/config/Swagger2Config.java" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-swagger2/src/main/java/com/cyan/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-swagger2/src/main/java/com/cyan/pojo/Car.java" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-swagger2/src/main/java/com/cyan/pojo/DataNode.java" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-swagger2/src/main/java/com/cyan/pojo/UserCondition.java" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-swagger2/src/main/java/com/cyan/pojo/User.java" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-swagger2/src/main/java/com/cyan/CyanspcSpringbootSwagger2Application.java" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-swagger2/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/controller/RedisController.java" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/pojo/User.java" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-redis-autoconfig/src/main/java/com/cyan/autoconfig/TulingRedisProperties.java" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-redis-autoconfig/src/main/java/com/cyan/core/CyanRedis.java" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-redis-autoconfig/src/main/java/com/cyan/core/TulingRedisClient.java" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-redis-autoconfig/pom.xml" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-redis-autoconfig/src/main/java/com/cyan/core/CyanRedisClient.java" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-redis-autoconfig/src/main/java/com/cyan/autoconfig/CyanRedisProperties.java" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-redis-autoconfig/src/main/java/com/cyan/autoconfig/CyanRedisAutoConfiguration.java" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-redis-autoconfig/src/main/resources/META-INF/spring.factories" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-quartz/pom.xml" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-quartz/src/main/java/com/cyan/task/CyanTask.java" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-mybatis/src/main/java/com/cyan/CyanspcSpringbootMybatisApplication.java" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-servletcomponent/src/main/java/com/cyan/anno/AngleLogger.java" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-servletcomponent/src/main/java/com/cyan/config/CyanWebConfig.java" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/CyanspcSpringbootRedisApplication.java" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/schedule/ClusterLockJob.java" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-redis/src/main/resources/logback-spring.xml" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-redis/src/main/resources/redis.lua" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/schedule/LockNxExJob.java" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/schedule/LuaDistributeLock.java" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/config/RedisConfig.java" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/schedule/JedisLuaDistributedLock.java" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/schedule/JedisDistributedLock.java" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-redis/src/test/java/org/mybatis/generator/plugins/Generator.java" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-redis/src/test/java/org/mybatis/generator/plugins/AddLimitOffsetPlugin.java" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-redis/src/test/resources/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/service/RedPacketService.java" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/service/impl/RedPacketServiceImpl.java" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/service/RedisService.java" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/mapper/RedPacketInfoMapper.java" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/mapper/RedPacketInfoSqlProvider.java" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/mapper/RedPacketRecordMapper.java" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/mapper/RedPacketRecordSqlProvider.java" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-redis/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/service/impl/RedisServiceImpl.java" />
+        <option value="$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/controller/RedPacketController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.6.0-bin/apache-maven-3.6.0" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cyanspc-springboot-redis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cyanspc-springboot-redis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="211" />
+    <option name="y" value="118" />
+    <option name="width" value="1320" />
+    <option name="height" value="621" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cyanspc-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cyanspc-springboot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cyanspc-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cyanspc-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="cyanspc-springboot-mybatis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cyanspc-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cyanspc-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="cyanspc-springboot-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cyanspc-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cyanspc-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="cyanspc-springboot-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cyanspc-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cyanspc-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="cyanspc-springboot-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cyanspc-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cyanspc-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="cyanspc-springboot-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cyanspc-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cyanspc-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="cyanspc-springboot-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cyanspc-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cyanspc-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="cyanspc-springboot-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cyan" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569084448693" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\cyanspc-springboot\cyanspc-springboot-mybatis\src\main\resources\mybatis" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cyan.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\cyanspc-springboot\cyanspc-springboot-redis\src\test\java\org\mybatis\generator\plugins" />
+      <recent name="F:\cyanspc-springboot\cyanspc-springboot-redis\src\main\java\com\cyan\config" />
+      <recent name="F:\cyanspc-springboot\cyanspc-springboot-redis\src\test\resources" />
+      <recent name="F:\cyanspc-springboot\cyanspc-springboot-redis\src\main\java\com\cyan\schedule" />
+      <recent name="F:\cyanspc-springboot\cyanspc-springboot-redis\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CyanspcSpringbootRedisApplication">
+    <configuration name="Generator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.mybatis.generator.plugins.Generator" />
+      <module name="cyanspc-springboot-redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.mybatis.generator.plugins.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LockNxExJob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cyan.schedule.LockNxExJob" />
+      <module name="cyanspc-springboot-redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cyan.schedule.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Generator.generate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cyanspc-springboot-redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.mybatis.generator.plugins.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.mybatis.generator.plugins" />
+      <option name="MAIN_CLASS_NAME" value="org.mybatis.generator.plugins.Generator" />
+      <option name="METHOD_NAME" value="generate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyanspcSpringbootErrorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cyanspc-springboot-error" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cyan.cyanspcspringbooterror.CyanspcSpringbootErrorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyanspcSpringbootJdbcApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cyanspc-springboot-jdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cyan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cyan.CyanspcSpringbootJdbcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyanspcSpringbootJdbcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cyanspc-springboot-jdbc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cyan.cyanspcspringbootjdbc.CyanspcSpringbootJdbcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyanspcSpringbootJspApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cyanspc-springboot-jsp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cyan.CyanspcSpringbootJspApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyanspcSpringbootMultiProfilesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cyanspc-springboot-multi-profiles" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cyan.CyanspcSpringbootMultiProfilesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyanspcSpringbootMybatisApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cyanspc-springboot-mybatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cyan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cyan.CyanspcSpringbootMybatisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyanspcSpringbootMybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cyanspc-springboot-mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cyan.cyanspcspringbootmybatis.CyanspcSpringbootMybatisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyanspcSpringbootPropertiesMappingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cyanspc-springboot-properties-mapping" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cyan.CyanspcSpringbootPropertiesMappingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyanspcSpringbootQksApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cyanspc-springboot-qks" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cyan.cyanspcspringbootqks.CyanspcSpringbootQksApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyanspcSpringbootQuartzApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cyanspc-springboot-quartz" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cyan.cyanspcspringbootquartz.CyanspcSpringbootQuartzApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyanspcSpringbootRabbitmqApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cyanspc-springboot-rabbitmq" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cyan.CyanspcSpringbootRabbitmqApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyanspcSpringbootRabbitmqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cyanspc-springboot-rabbitmq" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cyan.cyanspcspringbootrabbitmq.CyanspcSpringbootRabbitmqApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyanspcSpringbootRedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cyanspc-springboot-redis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cyan.CyanspcSpringbootRedisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyanspcSpringbootRedisAutoconfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cyanspc-springboot-redis-autoconfig" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cyan.CyanspcSpringbootRedisAutoconfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyanspcSpringbootServletcomponentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cyanspc-springboot-servletcomponent" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cyan.CyanspcSpringbootServletcomponentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyanspcSpringbootSwagger2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cyanspc-springboot-swagger2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cyan.CyanspcSpringbootSwagger2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyanspcSpringbootWarApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cyanspc-springboot-war" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cyan.CyanspcSpringbootWarApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyanspcSpringbootWebjarsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cyanspc-springboot-webjars" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cyan.cyanspcspringbootwebjars.CyanspcSpringbootWebjarsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClassStart" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cyanspc-springboot-maven" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cyan.MainClassStart" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.0.45" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.45" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="cyanspc-springboot-jsp:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_cyanspc-springboot_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52392" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="cyanspc-springboot-jsp:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.LockNxExJob" />
+      <item itemvalue="Application.Generator" />
+      <item itemvalue="JUnit.Generator.generate" />
+      <item itemvalue="Spring Boot.CyanspcSpringbootMultiProfilesApplication" />
+      <item itemvalue="Spring Boot.CyanspcSpringbootQksApplication" />
+      <item itemvalue="Spring Boot.CyanspcSpringbootWarApplication" />
+      <item itemvalue="Spring Boot.CyanspcSpringbootJspApplication" />
+      <item itemvalue="Spring Boot.CyanspcSpringbootPropertiesMappingApplication" />
+      <item itemvalue="Spring Boot.CyanspcSpringbootServletcomponentApplication" />
+      <item itemvalue="Spring Boot.CyanspcSpringbootErrorApplication" />
+      <item itemvalue="Spring Boot.CyanspcSpringbootWebjarsApplication" />
+      <item itemvalue="Spring Boot.CyanspcSpringbootJdbcApplication" />
+      <item itemvalue="Spring Boot.CyanspcSpringbootMybatisApplication" />
+      <item itemvalue="Spring Boot.CyanspcSpringbootRabbitmqApplication" />
+      <item itemvalue="Spring Boot.CyanspcSpringbootRabbitmqApplication (1)" />
+      <item itemvalue="Spring Boot.MainClassStart" />
+      <item itemvalue="Spring Boot.CyanspcSpringbootSwagger2Application" />
+      <item itemvalue="Spring Boot.CyanspcSpringbootRedisApplication" />
+      <item itemvalue="Spring Boot.CyanspcSpringbootRedisAutoconfigApplication" />
+      <item itemvalue="Spring Boot.CyanspcSpringbootQuartzApplication" />
+      <item itemvalue="Spring Boot.CyanspcSpringbootJdbcApplication (1)" />
+      <item itemvalue="Spring Boot.CyanspcSpringbootMybatisApplication (1)" />
+      <item itemvalue="Tomcat Server.Tomcat 8.0.45" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Generator.generate" />
+        <item itemvalue="Application.Generator" />
+        <item itemvalue="Application.LockNxExJob" />
+        <item itemvalue="Spring Boot.CyanspcSpringbootMybatisApplication (1)" />
+        <item itemvalue="Spring Boot.CyanspcSpringbootJdbcApplication (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe6a7807-45a7-4996-8dad-16a560b01c05" name="Default Changelist" comment="" />
+      <created>1567694204655</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567694204655</updated>
+      <workItem from="1567694218112" duration="26521000" />
+      <workItem from="1567871420360" duration="9516000" />
+      <workItem from="1568204868484" duration="180000" />
+      <workItem from="1568993561520" duration="29494000" />
+      <workItem from="1569144621723" duration="3773000" />
+      <workItem from="1570425587581" duration="39000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Generator_generate - 2019.09.21 at 19h 23m 37s.xml">
+      <configuration name="Generator.generate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Generator_generate - 2019.09.21 at 19h 30m 41s.xml">
+      <configuration name="Generator.generate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Generator_generate - 2019.09.21 at 19h 59m 24s.xml">
+      <configuration name="Generator.generate" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="69523000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="66" y="58" width="1322" height="652" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28763866" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49926794" weight="0.29968455" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49926794" weight="0.26143792" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49926794" weight="0.1748366" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32843137" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50073206" side_tool="true" weight="0.33280757" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32843137" />
+      <window_info anchor="bottom" id="SonarLint" order="13" />
+      <window_info anchor="bottom" id="Problems" order="14" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" />
+      <window_info anchor="bottom" id="Database Changes" order="16" />
+      <window_info anchor="bottom" id="Version Control" order="17" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.31141046" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2753404" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49926794" weight="0.29968455" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49926794" weight="0.26143792" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49926794" visible="true" weight="0.22712418" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32843137" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50073206" side_tool="true" weight="0.33280757" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32843137" />
+      <window_info anchor="bottom" id="SonarLint" order="13" />
+      <window_info anchor="bottom" id="Problems" order="14" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" />
+      <window_info anchor="bottom" id="Database Changes" order="16" />
+      <window_info anchor="bottom" id="Version Control" order="17" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.31141046" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cyanspc-springboot-servletcomponent/src/main/java/com/cyan/anno/AngleLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyanspc-springboot-servletcomponent/src/main/java/com/cyan/aspect/LoggerAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyanspc-springboot-servletcomponent/src/main/java/com/cyan/controller/CyanController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyanspc-springboot-servletcomponent/src/main/java/com/cyan/config/CyanWebConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="26" column="33" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.9.RELEASE/spring-context-5.1.9.RELEASE.jar!/org/springframework/scheduling/annotation/Scheduled.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.7.RELEASE/spring-boot-autoconfigure-2.1.7.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/data/redis/RedisAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="55" column="41" lean-forward="true" selection-start-line="55" selection-start-column="41" selection-end-line="55" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyanspc-springboot-redis-autoconfig/src/main/java/com/cyan/autoconfig/CyanRedisAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyanspc-springboot-redis/src/main/resources/redis.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/schedule/ClusterLockJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.9.RELEASE/spring-context-5.1.9.RELEASE.jar!/org/springframework/scheduling/support/ScheduledMethodRunnable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.10.RELEASE/spring-data-redis-2.1.10.RELEASE.jar!/org/springframework/data/redis/core/RedisTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="563" column="18" selection-start-line="563" selection-start-column="18" selection-end-line="563" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.10.RELEASE/spring-data-redis-2.1.10.RELEASE-sources.jar!/org/springframework/data/redis/core/RedisTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="879" column="35" selection-start-line="879" selection-start-column="35" selection-end-line="879" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/config/RedisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyanspc-springboot-redis/src/main/resources/unlock.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-75" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/schedule/JedisDistributedLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="53" column="6" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5191#5244#0" />
+            <element signature="e#5191#6263#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/schedule/LockNxExJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/schedule/LuaDistributeLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="56" column="64" selection-start-line="56" selection-start-column="16" selection-end-line="56" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/schedule/JedisLuaDistributedLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#releaseLock#0;class#JedisDistributedLock#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyanspc-springboot-mybatis/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="39" column="21" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="39" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/config/DruidDataSourceConfig.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/config/DruidDataSourceProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-475">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/generator/mybatis-generator-core/1.3.7/mybatis-generator-core-1.3.7.jar!/org/mybatis/generator/api/MyBatisGenerator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-549">
+          <caret line="75" column="16" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyanspc-springboot-redis/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyanspc-springboot-redis/src/test/java/org/mybatis/generator/plugins/Generator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2740">
+          <caret line="129" selection-start-line="129" selection-end-line="129" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyanspc-springboot-redis/src/test/java/org/mybatis/generator/plugins/AddLimitOffsetPlugin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyanspc-springboot-redis/src/test/resources/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="60" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/generator/mybatis-generator-core/1.3.7/mybatis-generator-core-1.3.7.jar!/org/mybatis/generator/plugins/ToStringPlugin.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/service/impl/RedPacketServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyanspc-springboot-redis/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyanspc-springboot-redis/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.2/mybatis-3.5.2.jar!/org/apache/ibatis/session/Configuration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="299" column="16" selection-start-line="299" selection-start-column="16" selection-end-line="299" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/2.1.0/mybatis-spring-boot-autoconfigure-2.1.0.jar!/org/mybatis/spring/boot/autoconfigure/MybatisProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="29" column="37" lean-forward="true" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+          <folding>
+            <element signature="e#1960#1961#0" expanded="true" />
+            <element signature="e#2014#2015#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/mapper/RedPacketRecordMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/mapper/RedPacketRecordSqlProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.9.RELEASE/spring-web-5.1.9.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/pojo/RedPacketRecord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/service/RedPacketService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/CyanspcSpringbootRedisApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/pojo/RedPacketRecordExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyanspc-springboot-redis/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/mapper/RedPacketInfoSqlProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/pojo/RedPacketInfoExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/pojo/RedPacketInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/service/RedisService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/service/impl/RedisServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="84" column="27" lean-forward="true" selection-start-line="84" selection-start-column="27" selection-end-line="84" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.10.RELEASE/spring-data-redis-2.1.10.RELEASE-sources.jar!/org/springframework/data/redis/core/ValueOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="246" column="9" selection-start-line="246" selection-start-column="9" selection-end-line="246" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.10.RELEASE/spring-data-redis-2.1.10.RELEASE-sources.jar!/org/springframework/data/redis/core/DefaultValueOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="83" column="16" selection-start-line="83" selection-start-column="16" selection-end-line="83" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/mapper/RedPacketInfoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="80" column="56" selection-start-line="80" selection-start-column="50" selection-end-line="80" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/controller/RedPacketController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="57" column="37" selection-start-line="57" selection-start-column="37" selection-end-line="57" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyanspc-springboot-mybatis/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyanspc-springboot-redis/src/main/java/com/cyan/controller/RedisController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

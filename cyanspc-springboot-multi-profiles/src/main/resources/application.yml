@@ -1,0 +1,30 @@
+# 多文档块
+server:
+  servlet:
+    context-path: /springbootMultiProfiles
+
+# 设置虚拟机参数 -Dspring.profiles.active=dev|prod|test
+# java -Xms128m -Xmx128m -jar *.jar --spring.profiles.active=dev
+# jps jinfo
+spring:
+  profiles:
+    active: dev
+
+---
+
+spring:
+  profiles: prod
+server:
+  port: 8081
+
+---
+spring:
+  profiles: dev
+server:
+  port: 8082
+
+---
+spring:
+  profiles: test
+server:
+  port: 8083

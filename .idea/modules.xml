@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cyanspc-springboot.iml" filepath="$PROJECT_DIR$/cyanspc-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cyanspc-springboot-error/cyanspc-springboot-error.iml" filepath="$PROJECT_DIR$/cyanspc-springboot-error/cyanspc-springboot-error.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cyanspc-springboot-jdbc/cyanspc-springboot-jdbc.iml" filepath="$PROJECT_DIR$/cyanspc-springboot-jdbc/cyanspc-springboot-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cyanspc-springboot-jsp/cyanspc-springboot-jsp.iml" filepath="$PROJECT_DIR$/cyanspc-springboot-jsp/cyanspc-springboot-jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cyanspc-springboot-maven/cyanspc-springboot-maven.iml" filepath="$PROJECT_DIR$/cyanspc-springboot-maven/cyanspc-springboot-maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cyanspc-springboot-multi-profiles/cyanspc-springboot-multi-profiles.iml" filepath="$PROJECT_DIR$/cyanspc-springboot-multi-profiles/cyanspc-springboot-multi-profiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cyanspc-springboot-mybatis/cyanspc-springboot-mybatis.iml" filepath="$PROJECT_DIR$/cyanspc-springboot-mybatis/cyanspc-springboot-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cyanspc-springboot-properties-mapping/cyanspc-springboot-properties-mapping.iml" filepath="$PROJECT_DIR$/cyanspc-springboot-properties-mapping/cyanspc-springboot-properties-mapping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cyanspc-springboot-qks/cyanspc-springboot-qks.iml" filepath="$PROJECT_DIR$/cyanspc-springboot-qks/cyanspc-springboot-qks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cyanspc-springboot-rabbitmq/cyanspc-springboot-rabbitmq.iml" filepath="$PROJECT_DIR$/cyanspc-springboot-rabbitmq/cyanspc-springboot-rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cyanspc-springboot-redis/cyanspc-springboot-redis.iml" filepath="$PROJECT_DIR$/cyanspc-springboot-redis/cyanspc-springboot-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cyanspc-springboot-redis-autoconfig/cyanspc-springboot-redis-autoconfig.iml" filepath="$PROJECT_DIR$/cyanspc-springboot-redis-autoconfig/cyanspc-springboot-redis-autoconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cyanspc-springboot-servletcomponent/cyanspc-springboot-servletcomponent.iml" filepath="$PROJECT_DIR$/cyanspc-springboot-servletcomponent/cyanspc-springboot-servletcomponent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cyanspc-springboot-swagger2/cyanspc-springboot-swagger2.iml" filepath="$PROJECT_DIR$/cyanspc-springboot-swagger2/cyanspc-springboot-swagger2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cyanspc-springboot-war/cyanspc-springboot-war.iml" filepath="$PROJECT_DIR$/cyanspc-springboot-war/cyanspc-springboot-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cyanspc-springboot-webjars/cyanspc-springboot-webjars.iml" filepath="$PROJECT_DIR$/cyanspc-springboot-webjars/cyanspc-springboot-webjars.iml" />
+    </modules>
+  </component>
+</project>
